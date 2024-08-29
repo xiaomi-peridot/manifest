@@ -51,4 +51,7 @@
   <remove-project name="LineageOS/android_vendor_qcom_opensource_vibrator"/>
   <project path="vendor/qcom/opensource/vibrator" name="vendor_qcom_opensource_vibrator" groups="qcom,lanai-vendor" revision="lineage-21.0" remote="xiaomi-peridot"/>
 
+  <remove-project name="LineageOS/android_vendor_qcom_opensource_usb"/>
+  <project path="vendor/qcom/opensource/usb" name="vendor_qcom_opensource_usb" groups="qcom,lanai-vendor" revision="lineage-21.0" remote="xiaomi-peridot"/>
+
 </manifest>
